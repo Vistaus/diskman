@@ -1,0 +1,212 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Tony George (teejeetech@gmail.com)
+# This file is distributed under the same license as the indicator-diskman package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-diskman 1.6\n"
+"Report-Msgid-Bugs-To: teejeetech@gmail.com\n"
+"POT-Creation-Date: 2017-04-30 12:03+0200\n"
+"PO-Revision-Date: 2017-04-30 12:08+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+#: DiskIndicator.vala:211
+msgid "About"
+msgstr "Over"
+
+#: Main.vala:181
+msgid "Admin Access Required"
+msgstr "Administrator-rechten benodigd"
+
+#: Main.vala:364
+msgid "App config loaded"
+msgstr "App-instellingen zijn geladen"
+
+#: Main.vala:321
+msgid "App config saved"
+msgstr "App-instellingen zijn opgeslagen"
+
+#: SettingsWindow.vala:201
+msgid "Close"
+msgstr "Sluiten"
+
+#: Main.vala:206
+msgid "Commands listed below are not available on this system"
+msgstr "De onderstaande opdrachten zijn niet beschikbaar op dit systeem"
+
+#: DiskIndicator.vala:871
+msgid "Disk Indicator for Linux"
+msgstr "Schijfindicator voor Linux"
+
+#: DiskIndicator.vala:470
+#, c-format
+msgid "Disk can be safely removed"
+msgstr "De schijf kan veilig worden verwijderd"
+
+#: Main.vala:270
+msgid "Distribution"
+msgstr "Distributie"
+
+#: DiskIndicator.vala:220
+msgid "Donate"
+msgstr "Doneren"
+
+#: DiskIndicator.vala:774
+msgid "Encrypted Device"
+msgstr "Versleuteld apparaat"
+
+#: DiskIndicator.vala:775
+#, c-format
+msgid "Enter passphrase to unlock '%s'"
+msgstr "Voer wachtwoord in om '%s' te ontgrendelen"
+
+#: DiskIndicator.vala:229
+msgid "Exit"
+msgstr "Afsluiten"
+
+#: DiskIndicator.vala:645
+msgid "Failed to lock"
+msgstr "Vergrendelen mislukt"
+
+#: DiskIndicator.vala:669
+msgid "Failed to unlock"
+msgstr "Ontgrendelen mislukt"
+
+#: DiskIndicator.vala:174
+msgid "ISO"
+msgstr "ISO"
+
+#: DiskIndicator.vala:538
+#, c-format
+msgid "Is Mounted"
+msgstr "Is aangekoppeld"
+
+#: DiskIndicator.vala:119
+msgid "Lock"
+msgstr "Vergrendelen"
+
+#: DiskIndicator.vala:640
+#, c-format
+msgid "Locked"
+msgstr "Vergrendeld"
+
+#: Main.vala:211
+msgid "Missing Dependencies"
+msgstr "Ontbrekende afhankelijkheden"
+
+#: DiskIndicator.vala:82
+msgid "Mount"
+msgstr "Aankoppelen"
+
+#: DiskIndicator.vala:694
+msgid "Mount ISO..."
+msgstr "ISO aankoppelen..."
+
+#: DiskIndicator.vala:531
+#, c-format
+msgid "Mounted"
+msgstr "Aangekoppeld"
+
+#: DiskIndicator.vala:722
+#, c-format
+msgid "Mounted ISO File"
+msgstr "Aangekoppeld ISO-bestand"
+
+#: DiskIndicator.vala:587
+#, c-format
+msgid "Not mounted"
+msgstr "Niet aangekoppeld"
+
+#: Main.vala:406
+msgid "Older log files removed"
+msgstr "Oudere logbestanden zijn verwijderd"
+
+#: DiskIndicator.vala:47
+msgid "Open"
+msgstr "Openen"
+
+#: Main.vala:207
+msgid "Please install required packages and try running Disk Manager Indicator again"
+msgstr "Installeer de vereiste pakketten en probeer dan opnieuw om de schijfindicator te starten"
+
+#: Main.vala:176
+msgid "Please re-run the application as admin."
+msgstr "Start de applicatie opnieuw als administrator."
+
+#: Main.vala:267
+msgid "Running"
+msgstr "Bezig met draaien"
+
+#: SettingsWindow.vala:141
+msgid "Select"
+msgstr "Selecteren"
+
+#: SettingsWindow.vala:143
+msgid "Select icon file"
+msgstr "Pictogrambestand selecteren"
+
+#: Main.vala:247
+msgid "Session log file"
+msgstr "Sessie-logbestand"
+
+#: DiskIndicator.vala:193 SettingsWindow.vala:62
+msgid "Settings"
+msgstr "Instellingen"
+
+#: DiskIndicator.vala:481
+msgid "Swap Device!"
+msgstr "Swap-apparaat!"
+
+#: DiskIndicator.vala:482
+msgid "Swap devices cannot be opened in file manager"
+msgstr "Swap-apparaten kunnen niet worden geopend in de bestandsbeheerder"
+
+#: DiskIndicator.vala:568 DiskIndicator.vala:617
+msgid "System Device!"
+msgstr "Systeemapparaat!"
+
+#: SettingsWindow.vala:74
+msgid "System Tray Icon"
+msgstr "Systeemvakpictogram"
+
+#: DiskIndicator.vala:569 DiskIndicator.vala:618
+msgid "System devices cannot be unmounted"
+msgstr "Systeemapparaten kunnen niet worden ontkoppeld"
+
+#: Main.vala:175
+msgid "This application requires admin access to perform some actions."
+msgstr "Deze applicatie heeft administrator-rechten nodig om sommige acties uit te kunnen voeren."
+
+#: DiskIndicator.vala:136
+msgid "Unlock"
+msgstr "Ontgrendelen"
+
+#: DiskIndicator.vala:664
+#, c-format
+msgid "Unlocked"
+msgstr "Ontgrendeld"
+
+#: DiskIndicator.vala:99
+msgid "Unmount"
+msgstr "Ontkoppelen"
+
+#: DiskIndicator.vala:469 DiskIndicator.vala:581
+#, c-format
+msgid "Unmounted"
+msgstr "Ontkoppeld"
+
+#: DiskIndicator.vala:155
+msgid "Usage"
+msgstr "Gebruik"
+
+#: SettingsWindow.vala:109
+msgid "Use custom icon"
+msgstr "Aangepast pictogram gebruiken"
